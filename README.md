@@ -1,9 +1,9 @@
-# Formulário de Registro
+# [Formulário de Registro](https://micaelrosario.github.io/FormularioDeRegistro/)
 
 Este é um projeto de formulário de registro desenvolvido como parte do curso do FreeCodeCamp. O formulário coleta informações 
 de usuários para fins de inscrição e demonstra o uso de HTML e CSS para criar uma interface atraente e funcional.
 
-para acessar o site clique [aqui](https://micaelrosario.github.io/FormularioDeRegistro/)
+###para acessar o site clique [aqui](https://micaelrosario.github.io/FormularioDeRegistro/)
 
 ## Tecnologias Utilizadas
 
