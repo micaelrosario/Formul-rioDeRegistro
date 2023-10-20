@@ -32,4 +32,4 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LI
 
 ---
 
-Projeto desenvolvido por Micael Santos do Rosário.
+Projeto desenvolvido por [Micael Santos do Rosário](https://www.instagram.com/devmicaelrosario/).
